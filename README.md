@@ -1,5 +1,7 @@
 # AI Security Suite - MVP
 
+![AI Security Suite Dashboard](./assets/screenshots/dashboard-overview.png)
+
 An interactive MVP showcasing three AI security products designed to disrupt Palo Alto Networks' market position. This suite includes PromptGuard, AgentGuard Enterprise, and FinSecure AI - all built with modern React and Tailwind CSS.
 
 ![AI Security Suite](https://img.shields.io/badge/AI-Security-blue) ![React](https://img.shields.io/badge/React-18.2.0-61DAFB) ![Vite](https://img.shields.io/badge/Vite-5.0.8-646CFF) ![Tailwind](https://img.shields.io/badge/Tailwind-3.3.6-38B2AC)
