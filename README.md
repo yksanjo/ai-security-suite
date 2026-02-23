@@ -1,5 +1,12 @@
 # ai-security-suite
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/ai-security-suite/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/ai-security-suite/actions)
+![License](https://img.shields.io/github/license/yksanjo/ai-security-suite)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/ai-security-suite)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/ai-security-suite)
+
 ## Detailed Description
 
 ai-security-suite is maintained as an industry-grade software project with production-ready engineering practices.  
